@@ -25,6 +25,7 @@
     <string name="icon_category_title">App icons</string>
     <string name="widget_category_title">Widgets</string>
     <string name="other_category_title">Miscellaneous</string>
+    <string name="gestures_category_title">Gestures</string>
 
     <!-- About -->
     <string name="about_credits">Credits</string>
@@ -102,4 +103,10 @@
 
     <string name="smartspace_hours_mins">%1$s %2$s</string>
 
+    <!-- Homescreen double tap gesture -->
+    <string name="pref_homescreen_dt_gestures_title">Double tap gesture</string>
+    <string name="pref_homescreen_dt_gestures_summary">Select the action of the double tap gesture on the homescreen</string>
+    <string name="pref_homescreen_dt_gestures_none">None</string>
+    <string name="pref_homescreen_dt_gestures_sleep">Sleep</string>
+    <string name="pref_homescreen_dt_gestures_torch">Flashlight</string>
 </resources>

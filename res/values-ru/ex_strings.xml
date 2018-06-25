@@ -19,9 +19,18 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Preference categories -->
+    <string name="gestures_category_title">Жесты</string>
+
   <!-- About -->
   <!-- Hidden app -->
   <!-- Icon pack -->
   <!-- Swipe up indicator -->
   <!-- Hide/Show search bars -->
+ <!-- Homescreen double tap gesture -->
+
+    <string name="pref_homescreen_dt_gestures_title">Жест двойного касания</string>
+    <string name="pref_homescreen_dt_gestures_summary">Выбор действия жеста двойного касания на главном экране</string>
+    <string name="pref_homescreen_dt_gestures_none">Нету</string>
+    <string name="pref_homescreen_dt_gestures_sleep">Спать</string>
+    <string name="pref_homescreen_dt_gestures_torch">Фонарик</string>
 </resources>
